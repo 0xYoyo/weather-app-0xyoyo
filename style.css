@@ -65,3 +65,12 @@ button {
   color: rgb(245, 100, 47);
   font-weight: bold;
 }
+button:hover {
+  cursor: pointer;
+  color: bisque;
+}
+
+button:active {
+  cursor: auto;
+  color: rgb(245, 100, 47);
+}
